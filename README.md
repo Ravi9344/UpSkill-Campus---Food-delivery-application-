@@ -101,11 +101,7 @@ MongoDB (Local setup or MongoDB Atlas)
 
 # Installation
 
-1. Clone the Repository:
-
-    git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
-  
-    cd Food_Delivery_Application
+   1. cd Food_Delivery_Application
 
 2. Install Backend Dependencies:
 
